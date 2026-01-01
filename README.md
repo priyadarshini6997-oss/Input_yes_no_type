@@ -1,0 +1,1 @@
+# Input_yes_no_type
